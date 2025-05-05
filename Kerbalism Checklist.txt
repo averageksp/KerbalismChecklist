@@ -1,0 +1,41 @@
+False|Crew assigned
+False|No tourists
+False|Pressurized parts only
+False|Food loaded
+False|Water loaded
+False|Oxygen full
+False|Supplies +10% buffer
+False|CO₂ scrubber installed
+False|Scrubber enabled
+False|Water recycler present
+False|Recyclers enabled
+False|Nitrogen tank (long trips)
+False|Radiation check
+False|Shielding installed
+False|Storm shelter module
+False|Hab time > mission time
+False|Stress level OK
+False|Gravity ring (if needed)
+False|Antennas onboard
+False|Antennas deployed
+False|Relay network confirmed
+False|Signal always available
+False|Antenna EC/s acceptable
+False|Control delay planned
+False|Solar panels installed
+False|RTG or backup source
+False|Enough EC storage
+False|Day/night EC balance OK
+False|Planner power "Green"
+False|Science storage onboard
+False|Experiments installed
+False|Background labs OK
+False|Experiments auto-triggered
+False|Magnetometer deployed
+False|Science set to transmit/recover
+False|Automation configs saved
+False|Critical modules powered
+False|Redundant systems added
+False|Planner: no red warnings
+False|Simulation test passed
+False|Save backup craft file
