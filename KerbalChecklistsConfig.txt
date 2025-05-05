@@ -1,0 +1,3 @@
+ModName=Kerbalism Checklist
+Author=averageksp
+AddToKerbalChecklists=true
